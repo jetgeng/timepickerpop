@@ -1,0 +1,14 @@
+{
+  "name": "timepicker-pop",
+  "homepage": "https://github.com/mytechtip/timepickerpop",
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "88cd454549e97cb42a9b7fb77a0f7a869bf4de4e"
+  },
+  "_source": "git@github.com:jetgeng/timepickerpop.git",
+  "_target": "~0.1.0",
+  "_originalSource": "timepicker-pop"
+}

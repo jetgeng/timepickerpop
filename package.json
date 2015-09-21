@@ -1,10 +1,10 @@
 {
   "author": "mytechtip",
   "name": "timepickerPop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/mytechtip/timepickerpop",
   "dependencies": {
-    "angular-ui-bootstrap":"~0.11.0"
+    "angular-ui-bootstrap": "~0.11.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

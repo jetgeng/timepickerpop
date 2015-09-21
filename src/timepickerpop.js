@@ -140,7 +140,6 @@ angular.module('timepickerPop', ['ui.bootstrap'])
           scope.isOpen = false;
         });
       });
-
     },
     template: "<input type='text' class='form-control' ng-model='inputTime' ng-disabled='disabledInt' time-format show-meridian='showMeridian' ng-focus='open()' />" +
       "  <div class='input-group-btn' ng-class='{open:isOpen}'> " +

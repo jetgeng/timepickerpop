@@ -83,7 +83,7 @@ angular.module('timepickerPop', ['ui.bootstrap'])
     restrict: 'E',
     transclude: false,
     scope: {
-      name: "="
+      name: "=",
       inputTime: "=",
       showMeridian: "=",
       disabled: "="
